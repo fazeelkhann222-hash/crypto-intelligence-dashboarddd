@@ -1,9 +1,9 @@
-import CryptoTracker from './components/CryptoTracker';
+import Tracker from './components/Tracker';
 
 function App() {
   return (
     <div>
-      <CryptoTracker />
+      <Tracker />
     </div>
   );
 }

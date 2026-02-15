@@ -22,7 +22,7 @@ ChartJS.register(
   Legend
 );
 
-const CryptoTracker = () => {
+const Tracker = () => {
   const [cryptoData, setCryptoData] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -96,4 +96,4 @@ const CryptoTracker = () => {
   );
 };
 
-export default CryptoTracker;
+export default Tracker;
