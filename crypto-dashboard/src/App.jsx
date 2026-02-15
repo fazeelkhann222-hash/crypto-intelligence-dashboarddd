@@ -1,4 +1,4 @@
-import Tracker from './components/Tracker';
+import Tracker from './Tracker';
 
 function App() {
   return (
